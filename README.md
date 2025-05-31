@@ -21,3 +21,5 @@ Average sales 141 $.in that,The most sales are of low fat contained items
 ### 3. Customer Satisfaction
 Overall average product rating is around 3.9.The tier 3 location made the most sales comparitive to the tier 1 and 2 
 
+# Conclusion 
+The Power BI dashboard provides a clear, data-driven view of Blinkit's operational efficiency, customer satisfaction, and sales dynamics.
