@@ -13,3 +13,11 @@ To enable data-driven decision-making by revealing trends, bottlenecks, and high
 ## Dashboard
 ![Screenshot 2025-06-01 002756](https://github.com/user-attachments/assets/c26fc0e2-9c45-4160-b17d-efb23a6ba2d3)
 
+## Insights
+### 1.Revenue Concentration
+ Total sales is about 1.2 million$ of items of 8523.
+### 2. Customer Behavior
+Average sales 141 $.in that,The most sales are of low fat contained items 
+### 3. Customer Satisfaction
+Overall average product rating is around 3.9.The tier 3 location made the most sales comparitive to the tier 1 and 2 
+
