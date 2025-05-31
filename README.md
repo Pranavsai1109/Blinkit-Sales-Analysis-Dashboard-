@@ -10,3 +10,5 @@ To enable data-driven decision-making by revealing trends, bottlenecks, and high
 2. Average Sales: The average revenue per sale.
 3. Number of Items: The total count of different items sold.
 4. Average Rating: The average customer rating for items sold.
+## Dashboard
+-<a herf="https://github.com/Pranavsai1109/Blinkit-Sales-Analysis-Dashboard-/blob/main/Screenshot%202025-06-01%20002756.png">Dashboard/a>
