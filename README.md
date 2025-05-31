@@ -11,4 +11,5 @@ To enable data-driven decision-making by revealing trends, bottlenecks, and high
 3. Number of Items: The total count of different items sold.
 4. Average Rating: The average customer rating for items sold.
 ## Dashboard
--<a herf="https://github.com/Pranavsai1109/Blinkit-Sales-Analysis-Dashboard-/blob/main/Screenshot%202025-06-01%20002756.png">Dashboard/a>
+![Screenshot 2025-06-01 002756](https://github.com/user-attachments/assets/c26fc0e2-9c45-4160-b17d-efb23a6ba2d3)
+
