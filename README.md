@@ -4,7 +4,7 @@ This project presents a comprehensive Power BI dashboard analyzing Blinkit's sal
 To enable data-driven decision-making by revealing trends, bottlenecks, and high-impact areas in Blinkit's e-commerce operations.
 ## Datasets used:
 - <a href ="https://github.com/Pranavsai1109/Blinkit-Sales-Analysis-Dashboard-/blob/main/BlinkIT%20Grocery%20Data.xlsx">Grocery data/a>
-- <a href ="https://github.com/Pranavsai1109/Blinkit-Sales-Analysis-Dashboard-/blob/main/Sales%20Data%20(1).csv">Sales data/a>
+
 ## KPI's Requirements
 1. Total Sales: The overall revenue generated from all items sold.
 2. Average Sales: The average revenue per sale.
